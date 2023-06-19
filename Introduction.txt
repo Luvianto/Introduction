@@ -1,4 +1,8 @@
 Intro
 Hello, my name is Luvianto
-I'm a college student from Indonesia
+
 Rigth now i'm learning php and laravel framework
+I'm a college student from Indonesia
+
+I'm eager to learn new things
+other than programming, i usualy draw a portrait of myself
