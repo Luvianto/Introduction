@@ -1,3 +1,4 @@
 Intro
 Hello, my name is Luvianto
 I'm a college student from Indonesia
+Rigth now i'm learning php and laravel framework
